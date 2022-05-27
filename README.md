@@ -8,7 +8,9 @@ Lucca's Talks!<br>
 </h1>
 <h4 align="center">This is a little application to chat with your besties! Try it !</h4>
 <br>
-![Screenshot 2022-05-27 at 12 09 02](https://user-images.githubusercontent.com/86610960/170679742-f740f60a-db16-47f3-af2a-59552094d6ea.jpg)
+
+![Screenshot 2022-05-27 at 12 09 02](https://user-images.githubusercontent.com/86610960/170680075-91590e86-9232-4c72-8b2f-aa066c354397.jpg)
+
 
 ![Screenshot 2022-05-27 at 12 09 27](https://user-images.githubusercontent.com/86610960/170679765-4c16f20f-f08f-49f9-bdbc-c06ef91aadcf.jpg)
 
