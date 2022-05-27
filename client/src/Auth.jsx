@@ -30,7 +30,7 @@ export default function Auth({socket}) {
                 onChange={(e) => setLocalMember(e.target.value)}
             />
             <button type="submit"
-                    className='flex items-center justify-center w-full bg-blue-500 text-white text-lg p-2 rounded-lg'>
+                    className='flex items-center justify-center w-full bg-blue-500 text-white text-center text-lg p-2 rounded-lg'>
                 <LoginIcon className='w-7 h-7 mr-2'/>
                 <span>Come as you are</span>
             </button>
