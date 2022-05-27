@@ -1,10 +1,10 @@
-# luccaChatAppTest
+# Lucca's Talks!
 
 <h1 align="center">
   <br>
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Icon-notepad.svg/1200px-Icon-notepad.svg.png" alt="ChatApp" width="200"></a>
   <br>
-Notes<br>
+Lucca's Talks!<br>
 </h1>
 <h4 align="center">This is a little application to chat with your besties! Try it !</h4>
 <br>
