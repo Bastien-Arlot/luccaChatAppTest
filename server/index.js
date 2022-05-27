@@ -1,5 +1,5 @@
 import {Server} from "socket.io";
-import {uuidv4 as uuid} from 'uuid';
+import {v4 as uuid} from 'uuid';
 
 const io = new Server(5000, {
     cors: {
@@ -18,7 +18,7 @@ io.on('connection', socket => {
             name: member,
 
         };
-        member.set(socket.id, newMember);
+        members.set(socket.id, newMember);
 
         //send new member info/messages to new member
         socket.emit('member', newMember);

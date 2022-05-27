@@ -24,8 +24,8 @@ export default function Auth({socket}) {
         <form onSubmit={handleAuth}>
             <input
                 type='text'
-                className='w-full py-2 pl-4 mb-3 bg-slate-100 rounded-lg outline-none focus:text-slate-800'
-                placeholder="Dear Lucca's fan, what is your name?"
+                className='w-full py-2 pl-4 mb-3 bg-slate-100 rounded-lg outline-none focus:text-slate-800 text-center'
+                placeholder="Name my friend?"
                 value={localMember}
                 onChange={(e) => setLocalMember(e.target.value)}
             />
