@@ -3,6 +3,7 @@ import Context from "./Context";
 import {io} from 'socket.io-client';
 import Auth from "./Auth";
 import Members from "./Members";
+import Message from "./Message";
 
 export default function Container() {
 
@@ -28,6 +29,7 @@ export default function Container() {
                     </div>
                     <div className="col-span-2">
                         <div className="w-full p-6 overflow-y-auto h-[40rem]">Message...</div>
+                        <Message socket={socket}/>
                     </div>
                 </div>
             ) : null}
